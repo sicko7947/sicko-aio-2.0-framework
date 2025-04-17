@@ -1,4 +1,4 @@
-SickoAIO Bot Framework (v2.0)
+# SickoAIO Bot Framework (v2.0)
 
 Hi, I’m **Sicko** — many of you might know me from **SickoAIO**, a sneaker/AIO bot I launched back in **2021**. After a successful release of version 1.0, the scene started shifting fast. With constant CDN security updates and personal life catching up, I burned out. Over time, the passion faded, and I couldn’t keep up with the arms race anymore.
 
