@@ -44,10 +44,3 @@ I plan to **slowly release more repos, writeups, or code samples** on these area
 - This repo is under Apache2.0 License, you can basically do whatever the fuck you want.
 ---
 
-# Prerequisite
-- redis
-- asynq
-
-# Running
-`go run main.go ` 
-
