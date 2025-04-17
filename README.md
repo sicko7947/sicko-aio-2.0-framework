@@ -28,7 +28,7 @@ Over the years I’ve explored a lot of deep technical areas — from:
 
 - CDN edge caching tricks
 - Reverse engineering flows
-- Custom TLS fingerprinting
+- [`psychoclient`](https://github.com/sicko7947/psychoclient) Custom HTTP Client with Custom TLS fingerprinting
 - Many more...
 
 I plan to **slowly release more repos, writeups, or code samples** on these areas over time.
