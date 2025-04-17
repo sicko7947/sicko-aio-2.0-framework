@@ -17,6 +17,8 @@ The framework is modular and split into a few key components:
 
 Each part is designed to be highly concurrent and distributed-friendly.
 
+Technical Design
+![image](https://github.com/user-attachments/assets/dc8e7629-5886-4e4f-80a1-e976d93db834)
 ---
 
 ## 🧠 Dev Notes & Insights
