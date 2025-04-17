@@ -2,7 +2,10 @@
 
 Hi, I’m **Sicko** — many of you might know me from **SickoAIO**, a sneaker/AIO bot I launched back in **2021**. After a successful release of version 1.0, the scene started shifting fast. With constant CDN security updates and personal life catching up, I burned out. Over time, the passion faded, and I couldn’t keep up with the arms race anymore.
 
-But after 4 years, I’ve decided to **open source the entire SickoAIO 2.0 framework**, fully rewritten in **Golang**. This is a **high-concurrency**, **scalable** system that may be useful when building performance-critical frameworks — whether for botting, automation, or other use cases.
+But after 4 years, I’ve decided to **open source the entire SickoAIO 2.0 framework**, fully rewritten in **Golang**, with the frontend UI/UX built using **Vue.js**. This is a **high-concurrency**, **scalable** system that may be useful when building performance-critical frameworks — whether for botting, automation, or other use cases.
+
+> ⚠️ **Note:** This project was developed in 2020-2021, and some technical designs or implementations may be **outdated** by today’s standards.
+
 ![New Project](https://github.com/user-attachments/assets/464f7536-d337-47e7-aa0e-5f9e7d02d017)
 
 ---
