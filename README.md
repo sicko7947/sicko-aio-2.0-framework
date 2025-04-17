@@ -10,10 +10,10 @@ But after 4 years, I’ve decided to **open source the entire SickoAIO 2.0 frame
 
 The framework is modular and split into a few key components:
 
-- `auth-grpc` – authentication and license verification layer  
-- `server-grpc` – core orchestration and for getting cookies or bypassing security measures
-- `client-backend` – backend logic for task handling and data flow  
-- `client-frontend` – UI panel for task management and control  
+- [`auth-grpc`](https://github.com/sicko7947/sicko-aio-2.0-auth) – authentication and license verification layer  
+- [`server-grpc`](https://github.com/sicko7947/sicko-aio-2.0-server) – core orchestration and for getting cookies or bypassing security measures
+- [`client-backend`](https://github.com/sicko7947/sicko-aio-2.0-client) – backend logic for task handling and data flow  
+- [`client-frontend`](https://github.com/sicko7947/sicko-aio-2.0-frontend-vue)– UI panel for task management and control  
 
 Each part is designed to be highly concurrent and distributed-friendly.
 
