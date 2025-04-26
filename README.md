@@ -1,6 +1,6 @@
 # SickoAIO Bot Framework (v2.0)
 
-Hi, I’m **Sicko** — many of you might know me from **SickoAIO**, a sneaker/AIO bot I launched back in **2021**. After a successful release of version 1.0, the scene started shifting fast. With constant CDN security updates and personal life catching up, I burned out. Over time, the passion faded, and I couldn’t keep up with the arms race anymore.
+Hi, I’m **Sicko** — many of you might know me from **SickoAIO**, a sneaker/AIO bot I launched back in **2021**. After a successful release of version 1.0, the scene started shifting fast. With my own personal issues and my gradually fading passion for the project, I found myself struggling to keep up, especially with sleeping only 3-4 hours a day and scratch my head off to work around with every akamai update. Additionally, security measures became increasingly sophisticated. As a solo developer, battling against entire CDN security teams became nearly impossible. Eventually, I had to accept that I couldn't maintain the pace required in this rapidly evolving arms race.
 
 But after 4 years, I’ve decided to **open source the entire SickoAIO 2.0 framework**, fully rewritten in **Golang**, with the frontend UI/UX built using **Vue.js**. This is a **high-concurrency**, **scalable** system that may be useful when building performance-critical frameworks — whether for botting, automation, or other use cases.
 
